@@ -1,0 +1,14 @@
+AUTHORS
+
+Javier de la Rúa Martínez
+Filip Finfando
+
+NOTES
+
+- The models saved during the execution of the jupyter notebooks can be found in the following github repository:
+https://github.com/javierdlrm/Show-and-Tell-Neural-Image-Caption-Generator/tree/master/models
+
+- The name of the jupyter notebook files follow the following pattern:
+lab2_[number of images for training]_[number of images for validation].ipynb
+
+- At the end of each jupyter notebook some tests with the corresponding predicted captions can be found.
